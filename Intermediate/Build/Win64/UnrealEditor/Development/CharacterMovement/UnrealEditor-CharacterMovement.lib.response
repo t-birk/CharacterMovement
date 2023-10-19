@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-CharacterMovement.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\CharacterMovementEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\CharacterMovement.cpp.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\CharacterMovementGameModeBase.cpp.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\PlayerCharacter.cpp.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\CharacterMovement.init.gen.cpp.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\CharacterMovementGameModeBase.gen.cpp.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\PlayerCharacter.gen.cpp.obj"
+"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\Default.rc2.res"
+/OUT:"C:\Users\thoma\Documents\Unreal Projects\CharacterMovement\Intermediate\Build\Win64\UnrealEditor\Development\CharacterMovement\UnrealEditor-CharacterMovement.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\intermediate\\build\\win64\\unrealeditor\\inc\\charactermovement\\charactermovementgamemodebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\intermediate\\build\\win64\\charactermovementeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\intermediate\\build\\win64\\unrealeditor\\development\\charactermovement\\definitions.charactermovement.h",
+            "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\source\\charactermovement\\charactermovementgamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\intermediate\\build\\win64\\unrealeditor\\inc\\charactermovement\\charactermovementgamemodebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

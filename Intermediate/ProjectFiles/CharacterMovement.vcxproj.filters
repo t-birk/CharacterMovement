@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CharacterMovement.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CharacterMovement.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CharacterMovementEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CharacterMovement">
+      <UniqueIdentifier>{EE85AE5E-EA25-334B-BB0B-613BBF39E21D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CharacterMovement\CharacterMovement.Build.cs">
+      <Filter>Source\CharacterMovement</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CharacterMovement\CharacterMovement.cpp">
+      <Filter>Source\CharacterMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CharacterMovement\CharacterMovement.h">
+      <Filter>Source\CharacterMovement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CharacterMovement\CharacterMovementGameModeBase.cpp">
+      <Filter>Source\CharacterMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CharacterMovement\CharacterMovementGameModeBase.h">
+      <Filter>Source\CharacterMovement</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CharacterMovement\PlayerCharacter.cpp">
+      <Filter>Source\CharacterMovement</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CharacterMovement\PlayerCharacter.h">
+      <Filter>Source\CharacterMovement</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

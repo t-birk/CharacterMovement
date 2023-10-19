@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\source\\charactermovement\\charactermovement.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\intermediate\\build\\win64\\charactermovementeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\intermediate\\build\\win64\\unrealeditor\\development\\charactermovement\\definitions.charactermovement.h",
+            "c:\\users\\thoma\\documents\\unreal projects\\charactermovement\\source\\charactermovement\\charactermovement.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

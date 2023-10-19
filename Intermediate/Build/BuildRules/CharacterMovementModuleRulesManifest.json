@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovement\\CharacterMovement.Build.cs",
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovement.Target.cs",
+		"C:\\Users\\thoma\\Documents\\Unreal Projects\\CharacterMovement\\Source\\CharacterMovementEditor.Target.cs"
+	],
+	"EngineVersion": "5.0.3"
+}
